@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## My Top Repositories
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajtiwari369&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajtiwari360&layout=compact&theme=radical)
 
 ## My GitHub Badges
 
@@ -24,7 +24,6 @@ Welcome to my GitHub profile!
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/neerajtiwari)
-- [Twitter](https://twitter.com/neeraj_tiwari)
-- [Portfolio](https://neerajtiwari.com)
+- [LinkedIn](https://www.linkedin.com/in/the-neeraj-tiwari/)
+
 
